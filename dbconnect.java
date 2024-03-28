@@ -1,1 +1,2 @@
-It contains java code of db connection 
+It contains java code of db connection
+db is modified and add some other db connections as well
